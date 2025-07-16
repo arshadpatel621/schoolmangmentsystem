@@ -1,0 +1,45 @@
+{
+  "name": "my-js-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@craftzdog/react-native-buffer": "^6.1.0",
+    "@expo/metro-runtime": "~5.0.4",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-navigation/bottom-tabs": "^7.4.2",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/stack": "^7.4.2",
+    "@supabase/functions-js": "^2.4.4",
+    "@supabase/realtime-js": "^2.11.15",
+    "@supabase/storage-js": "^2.7.3",
+    "@supabase/supabase-js": "^2.50.2",
+    "expo": "~53.0.13",
+    "expo-file-system": "^18.1.10",
+    "expo-image-picker": "^16.1.4",
+    "expo-linear-gradient": "^14.1.5",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-crypto": "^2.2.1",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-paper": "^5.14.5",
+    "react-native-safe-area-context": "^5.5.0",
+    "react-native-screens": "^4.11.1",
+    "react-native-svg": "^14.1.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "^0.20.0",
+    "readable-stream": "^4.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
